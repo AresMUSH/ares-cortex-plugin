@@ -117,3 +117,7 @@ A couple notes:
 ## Uninstalling
 
 Removing the plugin requires some code fiddling.  See [Uninstalling Plugins](https://www.aresmush.com/tutorials/code/extras.html#uninstalling-plugins).
+
+## License
+
+Same as	[AresMUSH](https://aresmush.com/license).
